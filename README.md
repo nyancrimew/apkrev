@@ -2,6 +2,10 @@
 
 this is tailored pretty much just to my exact needs, down to (for now) hardcoded directories in the script.
 
+```
+$ ./apkrev <packagename>
+```
+
 ## dependencies
 
 * [curl-impersonate](https://github.com/lwthiker/curl-impersonate)
